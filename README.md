@@ -1,2 +1,2 @@
-# 2024WorkRepoProjects
-Hold new projects relevant to Data Engineering and/or science
+# Work in process Projects
+This repository will hold projects I have undertaken for personal development for the year ending 2024.
