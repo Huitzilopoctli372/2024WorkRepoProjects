@@ -1,4 +1,16 @@
 Data Engineering
+-  Purpose
+  - Make data usable for business, accessible to scientists, intelligence/analysts
+- What to do
+  - Build platform
+  - Model data for storage and processing
+  - Select/Setup tools
+  - Build pipes
+- Mindfulness using cloud tools
+  - number of services/tools employed
+  - scalability
+  - setup time
+  - cost
 Dataset
 Platform Design
 Pipelines
