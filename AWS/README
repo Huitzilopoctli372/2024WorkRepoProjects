@@ -1,0 +1,13 @@
+Data Engineering
+Dataset
+Platform Design
+Pipelines
+AWS Design
+Pipeline Build
+- Data Ingestion (API, Lambda, Kinesis)
+- Stream to Raw S3 Storage
+- Stream to DynamoDB
+- Visualisation API for DynamoDB
+- Stream to Redshift Data Warehouse
+- Batch processing for Bulk Imports
+Conclusion
