@@ -1,4 +1,4 @@
-#Data Engineering
+# Data Engineering
 -  Purpose
   - Make data usable for business, accessible to scientists, intelligence/analysts
 - What to do
@@ -27,8 +27,8 @@ Conclusion
 
 
 
-#Retail Application
-##Defining the purpose
+# Retail Application
+## Defining the purpose
 - Main Goal
   - Process transactions from stores across multiple locations
   - Give Customer Access to purchase history
